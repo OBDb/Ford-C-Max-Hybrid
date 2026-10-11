@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    CMAXH_IAT_ALT2: 6
+  response: 7E80462F40F2E
+- expected_values:
+    CMAXH_IAT_ALT2: 25
+  response: 7E80462F40F41

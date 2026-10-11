@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10439
+  response: 7E80562F43128C7
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10452
+  response: 7E80562F43128D4
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10453
+  response: 7E80562F43128D5
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10454
+  response: 7E80562F43128D6
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10455
+  response: 7E80562F43128D7
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10514
+  response: 7E80562F4312912
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10515
+  response: 7E80562F4312913
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 10557
+  response: 7E80562F431293D
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 65535
+  response: 7E80562F431FFFF

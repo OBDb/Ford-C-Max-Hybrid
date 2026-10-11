@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 2519
+  response: 7E80562F43109D7
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 14599
+  response: 7E80562F4313907
+- expected_values:
+    CMAXH_DIST_DTC_CLR: 14919
+  response: 7E80562F4313A47

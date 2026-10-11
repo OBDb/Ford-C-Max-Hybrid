@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224840
+test_cases:
+- expected_values:
+    CMAXH_MIN_MODULE_V: 3.5
+  response: 7EC056248400DAC
+- expected_values:
+    CMAXH_MIN_MODULE_V: 3.583
+  response: 7EC056248400DFF
+- expected_values:
+    CMAXH_MIN_MODULE_V: 3.587
+  response: 7EC056248400E03
+- expected_values:
+    CMAXH_MIN_MODULE_V: 3.873
+  response: 7EC056248400F21

@@ -1,0 +1,32 @@
+command_id: 7E4.7EC.224808
+test_cases:
+- expected_values:
+    CMAXH_T_RANGE: 0
+    CMAXH_T_RANGE_AVG: 2
+    CMAXH_T_RANGE_MAX: 2
+    CMAXH_T_RANGE_MIN: 1
+  response: 7EC0762480834333234
+- expected_values:
+    CMAXH_T_RANGE: 6
+    CMAXH_T_RANGE_AVG: 18
+    CMAXH_T_RANGE_MAX: 20
+    CMAXH_T_RANGE_MIN: 14
+  response: 7EC0762480846403844
+- expected_values:
+    CMAXH_T_RANGE: 3
+    CMAXH_T_RANGE_AVG: 20
+    CMAXH_T_RANGE_MAX: 22
+    CMAXH_T_RANGE_MIN: 18
+  response: 7EC0762480848443546
+- expected_values:
+    CMAXH_T_RANGE: 3
+    CMAXH_T_RANGE_AVG: 21
+    CMAXH_T_RANGE_MAX: 22
+    CMAXH_T_RANGE_MIN: 18
+  response: 7EC0762480848443547
+- expected_values:
+    CMAXH_T_RANGE: 2
+    CMAXH_T_RANGE_AVG: 21
+    CMAXH_T_RANGE_MAX: 22
+    CMAXH_T_RANGE_MIN: 19
+  response: 7EC0762480848453447

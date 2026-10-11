@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    CMAXH_MAP_V: 1.54883
+  response: '7E8056203010632'
+- expected_values:
+    CMAXH_MAP_V: 1.75391
+  response: '7E8056203010704'
+- expected_values:
+    CMAXH_MAP_V: 2.99023
+  response: 7E8056203010BF6
+- expected_values:
+    CMAXH_MAP_V: 3.82129
+  response: 7E8056203010F49

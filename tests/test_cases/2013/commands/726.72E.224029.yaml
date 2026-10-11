@@ -1,0 +1,8 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    CMAXH_12V_T: 0
+  response: '72E0462402928'
+- expected_values:
+    CMAXH_12V_T: 31
+  response: '72E0462402947'

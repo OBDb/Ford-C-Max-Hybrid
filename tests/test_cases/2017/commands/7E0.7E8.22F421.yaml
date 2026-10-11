@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F421
+test_cases:
+- expected_values:
+    CMAXH_MIL_DIST: 0
+  response: 7E80562F4210000
+- expected_values:
+    CMAXH_MIL_DIST: 3947
+  response: 7E80562F4210F6B
+- expected_values:
+    CMAXH_MIL_DIST: 3960
+  response: 7E80562F4210F78
+- expected_values:
+    CMAXH_MIL_DIST: 3961
+  response: 7E80562F4210F79
+- expected_values:
+    CMAXH_MIL_DIST: 3962
+  response: 7E80562F4210F7A
+- expected_values:
+    CMAXH_MIL_DIST: 3963
+  response: 7E80562F4210F7B
+- expected_values:
+    CMAXH_MIL_DIST: 3964
+  response: 7E80562F4210F7C
+- expected_values:
+    CMAXH_MIL_DIST: 4023
+  response: 7E80562F4210FB7
+- expected_values:
+    CMAXH_MIL_DIST: 4065
+  response: 7E80562F4210FE1
+- expected_values:
+    CMAXH_MIL_DIST: 4066
+  response: 7E80562F4210FE2

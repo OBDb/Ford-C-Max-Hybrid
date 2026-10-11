@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    CMAXH_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    CMAXH_VSS_HD: 23.98438
+  response: 7E8056215050BFE
+- expected_values:
+    CMAXH_VSS_HD: 111.42969
+  response: 7E80562150537B7

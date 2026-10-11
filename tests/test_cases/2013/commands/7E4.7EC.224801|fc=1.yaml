@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224801|fc=1
+test_cases:
+- expected_values:
+    CMAXH_HVBAT_SOC: 33.28
+  response: 7EC056248014100
+- expected_values:
+    CMAXH_HVBAT_SOC: 36.346
+  response: 7EC0562480146FD
+- expected_values:
+    CMAXH_HVBAT_SOC: 57.99
+  response: 7EC056248017143

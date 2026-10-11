@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    CMAXH_ETC_ANG_ACT: 2.05078
+  response: 7E80562093C041A
+- expected_values:
+    CMAXH_ETC_ANG_ACT: 7.99805
+  response: 7E80562093C0FFF
+- expected_values:
+    CMAXH_ETC_ANG_ACT: 8
+  response: 7E80562093C1000
+- expected_values:
+    CMAXH_ETC_ANG_ACT: 25.48047
+  response: 7E80562093C32F6

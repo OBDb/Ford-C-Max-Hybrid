@@ -1,0 +1,8 @@
+command_id: 746.74E.224836
+test_cases:
+- expected_values:
+    CMAXH_LVB_DCDC_LV_CURRENT: 10
+  response: 74E046248360A
+- expected_values:
+    CMAXH_LVB_DCDC_LV_CURRENT: 78
+  response: 74E046248364E

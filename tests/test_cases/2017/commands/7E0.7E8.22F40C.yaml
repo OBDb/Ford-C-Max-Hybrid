@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    CMAXH_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    CMAXH_RPM: 1406.25
+  response: 7E80562F40C15F9
+- expected_values:
+    CMAXH_RPM: 1710.5
+  response: 7E80562F40C1ABA

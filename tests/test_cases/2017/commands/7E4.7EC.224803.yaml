@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.224803
+test_cases:
+- expected_values:
+    CMAXH_POSITIVE_LEAKAGE_V: 0
+  response: 7EC056248030000
+- expected_values:
+    CMAXH_POSITIVE_LEAKAGE_V: 0.75
+  response: 7EC0562480302EE
+- expected_values:
+    CMAXH_POSITIVE_LEAKAGE_V: 2.155
+  response: 7EC05624803086B

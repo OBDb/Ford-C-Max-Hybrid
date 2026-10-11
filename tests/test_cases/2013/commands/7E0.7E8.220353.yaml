@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    CMAXH_BARO: 13.59577
+  response: '7E8056203530177'
+- expected_values:
+    CMAXH_BARO: 14.21211
+  response: '7E8056203530188'
