@@ -1,0 +1,8 @@
+command_id: 7E6.7EE.224824
+test_cases:
+- expected_values:
+    CMAXH_PRI_MOTOR_INV_T: 17
+  response: 7EE056248240011
+- expected_values:
+    CMAXH_PRI_MOTOR_INV_T: 54
+  response: 7EE056248240036

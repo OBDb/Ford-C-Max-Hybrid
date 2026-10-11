@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    CMAXH_OAR: 0.09387
+  response: 7E8056203E80602
+- expected_values:
+    CMAXH_OAR: 0.25635
+  response: 7E8056203E81068
+- expected_values:
+    CMAXH_OAR: 0.25751
+  response: 7E8056203E8107B

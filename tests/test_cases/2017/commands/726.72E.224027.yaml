@@ -1,0 +1,17 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    CMAXH_12V_AGE: 76248
+  response: 72E056240270C69
+- expected_values:
+    CMAXH_12V_AGE: 76272
+  response: 72E056240270C6A
+- expected_values:
+    CMAXH_12V_AGE: 76320
+  response: 72E056240270C6C
+- expected_values:
+    CMAXH_12V_AGE: 76344
+  response: 72E056240270C6D
+- expected_values:
+    CMAXH_12V_AGE: 77064
+  response: 72E056240270C8B

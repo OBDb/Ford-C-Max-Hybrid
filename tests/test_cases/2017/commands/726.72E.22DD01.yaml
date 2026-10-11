@@ -1,0 +1,29 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    CMAXH_ODO_726: 78984
+  response: 72E0662DD01013488
+- expected_values:
+    CMAXH_ODO_726: 192937
+  response: 72E0662DD0102F1A9
+- expected_values:
+    CMAXH_ODO_726: 192949
+  response: 72E0662DD0102F1B5
+- expected_values:
+    CMAXH_ODO_726: 192950
+  response: 72E0662DD0102F1B6
+- expected_values:
+    CMAXH_ODO_726: 192951
+  response: 72E0662DD0102F1B7
+- expected_values:
+    CMAXH_ODO_726: 192952
+  response: 72E0662DD0102F1B8
+- expected_values:
+    CMAXH_ODO_726: 192953
+  response: 72E0662DD0102F1B9
+- expected_values:
+    CMAXH_ODO_726: 193012
+  response: 72E0662DD0102F1F4
+- expected_values:
+    CMAXH_ODO_726: 193055
+  response: 72E0662DD0102F21F

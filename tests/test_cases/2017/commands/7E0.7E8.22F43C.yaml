@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    CMAXH_CAT_TEMP: 5.5
+  response: 7E80562F43C01C7
+- expected_values:
+    CMAXH_CAT_TEMP: 498.2
+  response: 7E80562F43C1506
+- expected_values:
+    CMAXH_CAT_TEMP: 548.2
+  response: 7E80562F43C16FA
+- expected_values:
+    CMAXH_CAT_TEMP: 551.5
+  response: 7E80562F43C171B

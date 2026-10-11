@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    CMAXH_ECT: 12.23438
+  response: 7E80562038F030F
+- expected_values:
+    CMAXH_ECT: 55.98438
+  response: 7E80562038F0DFF
+- expected_values:
+    CMAXH_ECT: 76.01562
+  response: 7E80562038F1301
+- expected_values:
+    CMAXH_ECT: 96.09375
+  response: 7E80562038F1806

@@ -1,0 +1,14 @@
+command_id: 746.74E.22483D
+test_cases:
+- expected_values:
+    CMAXH_DCDC_ENABLED: 1
+  response: 74E0562483D016A
+- expected_values:
+    CMAXH_DCDC_ENABLED: 1
+  response: 74E0562483D0194
+- expected_values:
+    CMAXH_DCDC_ENABLED: 1
+  response: 74E0562483D0196
+- expected_values:
+    CMAXH_DCDC_ENABLED: 1
+  response: 74E0562483D0197

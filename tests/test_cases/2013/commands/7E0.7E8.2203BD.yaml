@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    CMAXH_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    CMAXH_CL_LC: 0.00806
+  response: 7E8056203BD0042
+- expected_values:
+    CMAXH_CL_LC: 0.00903
+  response: 7E8056203BD004A
+- expected_values:
+    CMAXH_CL_LC: 0.00952
+  response: 7E8056203BD004E
+- expected_values:
+    CMAXH_CL_LC: 0.01001
+  response: 7E8056203BD0052
+- expected_values:
+    CMAXH_CL_LC: -0.00989
+  response: 7E8056203BDFFAF
+- expected_values:
+    CMAXH_CL_LC: -0.00964
+  response: 7E8056203BDFFB1

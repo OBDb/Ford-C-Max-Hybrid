@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    CMAXH_AAT_V: 1.30499
+  response: 7E8056203BA010B
+- expected_values:
+    CMAXH_AAT_V: 2.02346
+  response: 7E8056203BA019E

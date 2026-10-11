@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224841
+test_cases:
+- expected_values:
+    CMAXH_AVG_MODULE_V: 3.425
+  response: 7EC056248410D61
+- expected_values:
+    CMAXH_AVG_MODULE_V: 3.608
+  response: 7EC056248410E18
+- expected_values:
+    CMAXH_AVG_MODULE_V: 3.838
+  response: 7EC056248410EFE
+- expected_values:
+    CMAXH_AVG_MODULE_V: 3.87
+  response: 7EC056248410F1E

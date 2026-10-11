@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    CMAXH_EVAP_RAW: 1731
+  response: 7E80562038E06C3
+- expected_values:
+    CMAXH_EVAP_RAW: 2302
+  response: 7E80562038E08FE
+- expected_values:
+    CMAXH_EVAP_RAW: 2567
+  response: 7E80562038E0A07
+- expected_values:
+    CMAXH_EVAP_RAW: 3343
+  response: 7E80562038E0D0F

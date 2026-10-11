@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    CMAXH_ETC_TRIM_LRN: 0
+  response: '7E8056203380000'
+- expected_values:
+    CMAXH_ETC_TRIM_LRN: 0.45703
+  response: 7E80562033800EA
+- expected_values:
+    CMAXH_ETC_TRIM_LRN: 0.52344
+  response: 7E805620338010C

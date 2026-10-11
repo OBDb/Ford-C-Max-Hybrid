@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    CMAXH_WARMUP_CLR: 170
+  response: 7E80462F430AA
+- expected_values:
+    CMAXH_WARMUP_CLR: 171
+  response: 7E80462F430AB
+- expected_values:
+    CMAXH_WARMUP_CLR: 173
+  response: 7E80462F430AD
+- expected_values:
+    CMAXH_WARMUP_CLR: 175
+  response: 7E80462F430AF
+- expected_values:
+    CMAXH_WARMUP_CLR: 255
+  response: 7E80462F430FF

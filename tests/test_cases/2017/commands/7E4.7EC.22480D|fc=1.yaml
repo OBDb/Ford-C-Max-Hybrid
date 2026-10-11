@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.22480D|fc=1
+test_cases:
+- expected_values:
+    CMAXH_HVBAT_V: 259.52
+  response: 7EC0562480D6560
+- expected_values:
+    CMAXH_HVBAT_V: 281.62
+  response: 7EC0562480D6E02
+- expected_values:
+    CMAXH_HVBAT_V: 291.66
+  response: 7EC0562480D71EE
+- expected_values:
+    CMAXH_HVBAT_V: 297.55
+  response: 7EC0562480D743B
