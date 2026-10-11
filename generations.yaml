@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_C-Max"
+
+generations:
+  - name: "C-Max Hybrid"
+    start_year: 2013
+    end_year: 2018
+    description: "The North American C-Max, a 2.0 L Atkinson-cycle hybrid with Ford's power-split transmission, sharing its drivetrain with the Fusion Hybrid."
