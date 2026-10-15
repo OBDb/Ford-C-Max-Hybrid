@@ -1,0 +1,26 @@
+command_id: 7E4.7EC.22F45B
+test_cases:
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 46.27451
+  response: 7EC0462F45B76
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 51.76471
+  response: 7EC0462F45B84
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 52.15686
+  response: 7EC0462F45B85
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 53.72549
+  response: 7EC0462F45B89
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 55.29412
+  response: 7EC0462F45B8D
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 58.03922
+  response: 7EC0462F45B94
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 59.21569
+  response: 7EC0462F45B97
+- expected_values:
+    CMAXH_HYBRID_BAT_PACK: 59.60784
+  response: 7EC0462F45B98

@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224852
+test_cases:
+- expected_values:
+    CMAXH_BAT_DCHG_POWER_LIM: 35
+  response: 7EC0462485223

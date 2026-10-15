@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22DD04
+test_cases:
+- expected_values:
+    CMAXH_T_INSIDE_CAR: 71.6
+  response: 7EC0462DD043E

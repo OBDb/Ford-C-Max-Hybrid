@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.220702
+test_cases:
+- expected_values:
+    CMAXH_FAN_SPD_INDICATED: 0
+  response: 7EC0462070200
