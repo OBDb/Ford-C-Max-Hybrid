@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224811
+test_cases:
+- expected_values:
+    CMAXH_HIGH_V_LEAKAGE_RES_BUS: null
+  response: 7EC05624811FFFF

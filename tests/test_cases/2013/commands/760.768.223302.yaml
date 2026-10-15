@@ -1,0 +1,29 @@
+command_id: 760.768.223302
+test_cases:
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: -7.1
+  response: '768056233021E31'
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: -4.6
+  response: 768056233021E4A
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: -1.6
+  response: '768056233021E68'
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: -0.8
+  response: '768056233021E70'
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: -0.7
+  response: '768056233021E71'
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: 0
+  response: '768056233021E78'
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: 4.4
+  response: 768056233021EA4
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: 5.7
+  response: 768056233021EB1
+- expected_values:
+    CMAXH_BCM_STEER_ANG_ACT: 14.1
+  response: 768056233021F05

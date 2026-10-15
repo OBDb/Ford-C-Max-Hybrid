@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    CMAXH_PF_DIFF_P_FEEDBACK_V: 1.50067
+  response: 7E8056203E30600
