@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.22F45B
 test_cases:
 - expected_values:
+    CMAXH_HYBRID_BAT_PACK: 44.70588
+  response: 7EC0462F45B72
+- expected_values:
     CMAXH_HYBRID_BAT_PACK: 46.27451
   response: 7EC0462F45B76
 - expected_values:

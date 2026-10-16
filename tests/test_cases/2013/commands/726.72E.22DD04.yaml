@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CMAXH_CAR_T: 19.875
   response: 72E0462DD049F
+- expected_values:
+    CMAXH_CAR_T: 20.125
+  response: 72E0462DD04A1
