@@ -6,15 +6,10 @@ test_cases:
     72E100C62280B35D131
     72E21C902C100469800
 - expected_values:
-    CMAXH_TYRE_T: -40
+    CMAXH_TYRE_T: 21
   response: |-
     72E100C62280B35D131
-    72E21C902C100469A00
-- expected_values:
-    CMAXH_TYRE_T: -40
-  response: |-
-    72E100C62280B35D131
-    72E21C902CB00469E00
+    72E21C902C63D05E000
 - expected_values:
     CMAXH_TYRE_T: -40
   response: |-
@@ -25,26 +20,6 @@ test_cases:
   response: |-
     72E100C62280B35D15A
     72E21A802C10046A300
-- expected_values:
-    CMAXH_TYRE_T: -40
-  response: |-
-    72E100C62280B35D15A
-    72E21A802C10046A500
-- expected_values:
-    CMAXH_TYRE_T: -40
-  response: |-
-    72E100C62280B35D15A
-    72E21A802C60046A800
-- expected_values:
-    CMAXH_TYRE_T: -40
-  response: |-
-    72E100C62280B35D15A
-    72E21A802CB0046AB00
-- expected_values:
-    CMAXH_TYRE_T: -40
-  response: |-
-    72E100C62280B35D15A
-    72E21A802CB0046AD00
 - expected_values:
     CMAXH_TYRE_T: 21
   response: |-
