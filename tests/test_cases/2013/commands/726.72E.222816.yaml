@@ -1,8 +1,8 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
-    CMAXH_TP_RLO: 35.3
-  response: 72E0562281602C2
+    CMAXH_TP_RLO: 35.05
+  response: 72E0562281602BD
 - expected_values:
     CMAXH_TP_RLO: 38.35
   response: 72E0562281602FF
