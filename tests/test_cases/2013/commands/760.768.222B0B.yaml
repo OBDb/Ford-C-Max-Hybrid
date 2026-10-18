@@ -13,6 +13,9 @@ test_cases:
     CMAXH_YAW_RATE_SIG: 4.2
   response: 76805622B0B0015
 - expected_values:
+    CMAXH_YAW_RATE_SIG: 9.8
+  response: 76805622B0B0031
+- expected_values:
     CMAXH_YAW_RATE_SIG: -2.6
   response: 76805622B0BFFF3
 - expected_values:

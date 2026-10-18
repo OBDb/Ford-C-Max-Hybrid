@@ -4,6 +4,9 @@ test_cases:
     CMAXH_HYBRID_BAT_PACK: 44.70588
   response: 7EC0462F45B72
 - expected_values:
+    CMAXH_HYBRID_BAT_PACK: 45.88235
+  response: 7EC0462F45B75
+- expected_values:
     CMAXH_HYBRID_BAT_PACK: 46.27451
   response: 7EC0462F45B76
 - expected_values:

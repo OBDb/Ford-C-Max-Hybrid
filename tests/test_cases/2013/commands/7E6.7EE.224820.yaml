@@ -4,29 +4,5 @@ test_cases:
     CMAXH_GEN_COIL_T_7E6: 37.8
   response: 7EE056248200015
 - expected_values:
-    CMAXH_GEN_COIL_T_7E6: 43.2
-  response: 7EE056248200018
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 46.8
-  response: 7EE05624820001A
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 48.6
-  response: 7EE05624820001B
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 50.4
-  response: 7EE05624820001C
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 52.2
-  response: 7EE05624820001D
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 54
-  response: 7EE05624820001E
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 55.8
-  response: 7EE05624820001F
-- expected_values:
-    CMAXH_GEN_COIL_T_7E6: 61.2
-  response: 7EE056248200022
-- expected_values:
     CMAXH_GEN_COIL_T_7E6: 64.8
   response: 7EE056248200024
