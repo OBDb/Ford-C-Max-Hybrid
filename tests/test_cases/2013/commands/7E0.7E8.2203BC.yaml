@@ -4,8 +4,8 @@ test_cases:
     CMAXH_VCT_INT_DES: 0
   response: 7E8056203BC0000
 - expected_values:
-    CMAXH_VCT_INT_DES: -32.8125
-  response: 7E8056203BCFDF3
+    CMAXH_VCT_INT_DES: -32.3125
+  response: 7E8056203BCFDFB
 - expected_values:
     CMAXH_VCT_INT_DES: -5.875
   response: 7E8056203BCFFA2
