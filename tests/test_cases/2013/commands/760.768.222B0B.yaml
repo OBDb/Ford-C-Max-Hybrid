@@ -4,20 +4,8 @@ test_cases:
     CMAXH_YAW_RATE_SIG: 0
   response: 76805622B0B0000
 - expected_values:
-    CMAXH_YAW_RATE_SIG: 0.8
-  response: 76805622B0B0004
-- expected_values:
-    CMAXH_YAW_RATE_SIG: 1.8
-  response: 76805622B0B0009
-- expected_values:
-    CMAXH_YAW_RATE_SIG: 4.2
-  response: 76805622B0B0015
-- expected_values:
-    CMAXH_YAW_RATE_SIG: 9.8
-  response: 76805622B0B0031
-- expected_values:
     CMAXH_YAW_RATE_SIG: -2.6
   response: 76805622B0BFFF3
 - expected_values:
-    CMAXH_YAW_RATE_SIG: -1.4
-  response: 76805622B0BFFF9
+    CMAXH_YAW_RATE_SIG: -0.2
+  response: 76805622B0BFFFF

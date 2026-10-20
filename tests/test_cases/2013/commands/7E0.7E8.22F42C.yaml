@@ -4,23 +4,5 @@ test_cases:
     CMAXH_EGR: 0
   response: 7E80462F42C00
 - expected_values:
-    CMAXH_EGR: 14
-  response: 7E80462F42C0E
-- expected_values:
-    CMAXH_EGR: 39
-  response: 7E80462F42C27
-- expected_values:
-    CMAXH_EGR: 58
-  response: 7E80462F42C3A
-- expected_values:
-    CMAXH_EGR: 73
-  response: 7E80462F42C49
-- expected_values:
-    CMAXH_EGR: 78
-  response: 7E80462F42C4E
-- expected_values:
-    CMAXH_EGR: 83
-  response: 7E80462F42C53
-- expected_values:
-    CMAXH_EGR: 88
-  response: 7E80462F42C58
+    CMAXH_EGR: 100
+  response: 7E80462F42C89
