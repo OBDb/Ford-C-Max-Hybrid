@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CMAXH_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF8173
+- expected_values:
+    CMAXH_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF823B

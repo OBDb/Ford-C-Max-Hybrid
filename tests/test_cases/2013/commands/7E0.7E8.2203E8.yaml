@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056203E8CAF2
 - expected_values:
     CMAXH_OAR: 0
-  response: 7E8056203E8E824
+  response: 7E8056203E8EE57

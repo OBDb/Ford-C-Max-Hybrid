@@ -7,5 +7,5 @@ test_cases:
     CMAXH_RPM: 255.25
   response: 7E80562F40C03FD
 - expected_values:
-    CMAXH_RPM: 3399
-  response: 7E80562F40C351C
+    CMAXH_RPM: 3767.25
+  response: 7E80562F40C3ADD

@@ -4,5 +4,8 @@ test_cases:
     CMAXH_BAT_QUIESCENT: -17
   response: 72E0562402507AE
 - expected_values:
+    CMAXH_BAT_QUIESCENT: -15
+  response: 72E0562402507B2
+- expected_values:
     CMAXH_BAT_QUIESCENT: -10
   response: 72E0562402507BC

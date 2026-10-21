@@ -4,8 +4,8 @@ test_cases:
     CMAXH_BCM_STEER_ANG_ACT: -162.5
   response: 76805623302181F
 - expected_values:
-    CMAXH_BCM_STEER_ANG_ACT: -17.4
-  response: 768056233021DCA
+    CMAXH_BCM_STEER_ANG_ACT: 8.4
+  response: 768056233021ECC
 - expected_values:
     CMAXH_BCM_STEER_ANG_ACT: 14.1
   response: 768056233021F05
