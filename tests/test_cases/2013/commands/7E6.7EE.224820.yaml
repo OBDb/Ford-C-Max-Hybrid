@@ -4,5 +4,5 @@ test_cases:
     CMAXH_GEN_COIL_T_7E6: 37.8
   response: 7EE056248200015
 - expected_values:
-    CMAXH_GEN_COIL_T_7E6: 64.8
-  response: 7EE056248200024
+    CMAXH_GEN_COIL_T_7E6: 70.2
+  response: 7EE056248200027

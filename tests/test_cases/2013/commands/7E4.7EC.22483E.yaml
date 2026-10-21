@@ -4,6 +4,9 @@ test_cases:
     CMAXH_SOC_VARIATION_BAT: 0.585
   response: 7EC0562483E0249
 - expected_values:
+    CMAXH_SOC_VARIATION_BAT: 0.675
+  response: 7EC0562483E02A3
+- expected_values:
     CMAXH_SOC_VARIATION_BAT: 0.704
   response: 7EC0562483E02C0
 - expected_values:

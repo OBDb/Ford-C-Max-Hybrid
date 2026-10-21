@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CMAXH_NORM_CUM_CHG_IGN_ON: 186
   response: 72E0562401E0744
+- expected_values:
+    CMAXH_NORM_CUM_CHG_IGN_ON: 187
+  response: 72E0562401E074E

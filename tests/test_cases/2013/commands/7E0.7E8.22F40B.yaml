@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    CMAXH_MAP: 6.23667
-  response: 7E80462F40B2B
+    CMAXH_MAP: 5.51148
+  response: 7E80462F40B26
 - expected_values:
     CMAXH_MAP: 14.21382
   response: 7E80462F40B62

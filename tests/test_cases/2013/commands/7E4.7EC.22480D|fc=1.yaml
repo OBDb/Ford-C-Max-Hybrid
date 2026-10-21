@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    CMAXH_HVBAT_V: 267.92
-  response: 7EC0562480D68A8
+    CMAXH_HVBAT_V: 266.08
+  response: 7EC0562480D67F0
 - expected_values:
     CMAXH_HVBAT_V: 268.79
   response: 7EC0562480D68FF
