@@ -10,5 +10,5 @@ test_cases:
     CMAXH_HVBAT_V: 291.85
   response: 7EC0562480D7201
 - expected_values:
-    CMAXH_HVBAT_V: 303.14
-  response: 7EC0562480D766A
+    CMAXH_HVBAT_V: 305.27
+  response: 7EC0562480D773F
