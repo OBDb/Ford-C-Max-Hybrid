@@ -466,7 +466,7 @@
   "signals": [
     {"id": "CMAXH_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 30, "dbgfilter": { "years": [2014, 2015, 2016], "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
     {"id": "CMAXH_FLI_7E0_7E0", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
