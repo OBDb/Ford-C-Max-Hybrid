@@ -7,7 +7,7 @@
   "commands": [
 { "hdr": "726", "rax": "72E", "cmd": {"22": "280B"}, "freq": 5, "dbgfilter": { "from": 2014 },
   "signals": [
-    {"id": "CMAXH_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Tire temperature"}
+    {"id": "CMAXH_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "nullmax": 215, "unit": "celsius" }, "name": "Tire temperature"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 15, "dbgfilter": { "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
@@ -300,7 +300,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 5, "dbgfilter": { "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
-    {"id": "CMAXH_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
+    {"id": "CMAXH_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 1, "dbgfilter": { "years": [2014, 2015, 2016], "from": 2018 },
   "signals": [
