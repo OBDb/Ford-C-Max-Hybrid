@@ -579,15 +579,15 @@
   "signals": [
     {"id": "CMAXH_HVBAT_AGE", "path": "Battery", "fmt": { "len": 16, "max": 235926, "mul": 720, "div": 200, "unit": "hours" }, "name": "HV battery age"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4811"}, "freq": 1, "dbgfilter": { "from": 2014 },
+{ "hdr": "7E4", "rax": "7EC", "dbg": true, "cmd": {"22": "4811"}, "freq": 1,
   "signals": [
     {"id": "CMAXH_HIGH_V_LEAKAGE_RES_BUS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "nullmax": 65535, "unit": "kiloohms" }, "name": "High voltage leakage resistance bus positive"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4812"}, "freq": 1, "dbgfilter": { "from": 2014 },
+{ "hdr": "7E4", "rax": "7EC", "dbg": true, "cmd": {"22": "4812"}, "freq": 1,
   "signals": [
     {"id": "CMAXH_HIGH_V_LEAKAGE_RES", "path": "Engine", "fmt": { "len": 16, "max": 65535, "nullmax": 65535, "unit": "kiloohms" }, "name": "High voltage leakage resistance bus negative"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4813"}, "freq": 1, "dbgfilter": { "from": 2014 },
+{ "hdr": "7E4", "rax": "7EC", "dbg": true, "cmd": {"22": "4813"}, "freq": 1,
   "signals": [
     {"id": "CMAXH_LEAKAGE_RES_BUS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "nullmax": 65535, "unit": "kiloohms" }, "name": "Leakage resistance bus overall"}
   ]},
